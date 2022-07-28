@@ -55,7 +55,7 @@ function App() {
 
       <TextForm
         showAlert={showAlert}
-        Heading="Enter your Text to Analyze."
+        Heading="TextUtils - Word Counter, Character Counter, Remove Extra Spaces"
         mode={Mode}
       />
     </>
